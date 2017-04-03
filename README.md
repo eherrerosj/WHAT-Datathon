@@ -18,6 +18,8 @@ Cleaning, null removing, joining, concats, external info, prepare train, test an
 
 ### Model ensembling
 
+stackEnsembler.ipynb -- can be used to stack ensemble multiple 1st level models from sklearn.
+
 
 ## Interesting links
 **Previous competitions, papers, forum entries, blog posts, ..*
